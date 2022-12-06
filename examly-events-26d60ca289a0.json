@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "examly-events",
+  "private_key_id": "26d60ca289a00e4e8baa7f598c27958ab87e56f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrcub8RSrNRtpb\nK1qcxvQUKnYO9yOQ4KVx5ery6JTkRbMFKAhKkE9xXaF+vpDgblTJ/B6UFIXuWUtj\nRN6UHnq1A4pQ8LFGBqI21R3CoJLcqT8wNs8aQS6QwrbDbUrAkZEW1pvPmx1rKeGh\nK9ZLN3lgsg2UWPbmqmUwYkD0G3hwPa764rMsb7V8Nm11LRI2Ha5b6WDDVPCQljYu\nSWINqklFMdZob4RH772Pvb00MmLoPaALLcFcFcSMjbFlhA2SfMRwRddcpoKl3SVy\nH7SUcpKhFHMptAqhOW+FdOVZVQrUudSxDxgcSXtuqWQxZHnoD4N1v0Tyn2+8A3gi\n3r7hBwarAgMBAAECggEAOSnvAc2rPCaZKixm9gxpwyGiAzUmiey4zmPzfKFSUO/J\nLJXRGYVa/Fuus26CDzNKW7XeGLa446sDXikg3xZdVWh0Iv2lFKrUpHpunMvOjEt9\nH3AXLTkpHJVhuSXmUcWl08UsFCYFaPjEopRZlW51BjCEkoFdBJjXM32PZpTq01j3\nVFK2leM/p4kwPNaWC1zDCB4X2v310qdszKTb1n4YuqLYOzobpT7hdUwWQMop58DC\n5N2EY6nYZATQkIqyioFf9wy+sr8q9OScBn4dUiL9y2rP4qQSQfLx7icCX5tBlKUq\naAdwP7OsLR0V0Y3GE04C7fNoNO7mzd2AqBwTkhhqGQKBgQD3icaTQj2i/7P1aWTd\njWEkDEm1sc/wctwM41PWgDdcEFzhdR5bfUbLbkZr0A6B26hK0t9nkiuslg+HA0Ap\nDonl4FTSOu4ubQ3NXv1tdgtm2rpDUx847LPzH7X6A8mFUyVmZj4qWTYEBkLsXFLG\nzyooq8Im55JSm22btjdIwvYPMwKBgQDzf1Tz1FE2NycL//3dR9f5RUz0hXfDHvQ6\nK0cDFH4xgBpf+zgknGEpWGSnZZj4vdVEp3+egoxFD/+l/3VffQYUgocmhklT6D5F\nWoKtkcWruVe2W+lYJPrwANpJRqLvn2mymE2fPMhRFEhmG6h5uw4zaWzcZQTlguqX\n5kycrAUKqQKBgQC0JsEuSvcwuYfvA1U1KL+ZzJeYdGAxTmZ3uro5Ufb4ObBfJS2C\nyBnN0+PMcw8b0xEX44BTkD3YzR1f1S3Ms5gIhMs2dU0C3Ls+y/MExvRlVqpYdRY0\nB5CvUFTQMBFpxqlhbOexSlvVcfkiq85SglLcZqRWTBJhrFyJBoQVoE4ToQKBgQCB\nv/Yav6ZOx3DNGinCggf50g3BtmUs2g+1912trHvaELL9Njaie5nimDF6ac7rrOw5\n2y9L3bC1FGNbpxZ6PXrB7xPpWWE1jumvtx0vNCAq82Zjy/I5f+sffLTUmwkzurRt\n8G5cTd1IJxC1KEPMKfrVNnZFsqa7TdmH+7YTPi6pkQKBgHqtP3yui155imo9362i\nRU0THmUJqY7ooC/xWMYZsxURWUzuEiY3Of/75Mdbc0hRrb3vTH0KyzODB9RtJo8T\nXD9CAEnKWepS3n18aHqydePqcOVDMrZePqAqQgg105889Gnge+9x8M52NE9ZQioa\nOxsPRk1+wcZpyL/Fse9MubfW\n-----END PRIVATE KEY-----\n",
+  "client_email": "examly-analytics-bigquery@examly-events.iam.gserviceaccount.com",
+  "client_id": "107842254304608650186",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/examly-analytics-bigquery%40examly-events.iam.gserviceaccount.com"
+}
