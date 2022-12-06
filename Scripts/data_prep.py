@@ -81,13 +81,13 @@ def fetch_data():
 
 
 def sampling():
-    whole_data = fetch_data(sampling_size)
-    n = whole_data.shape[0]//4  #chunk row size
+    whole_data = fetch_data()
+    n = whole_data.shape[0]//8  #chunk row size
     print(n)
     list_df = [whole_data[i:i+n] for i in range(0,whole_data.shape[0],n)]
     return list_df
 
-def prepare_data(file_path:str,sampling_size:int)->None:
+def prepare_data(file_path:str)->None:
     list_df = sampling(sampling_size)
     file_name_list = ["A","B","C","D","E","F","G","H"]
     if len(file_path) > 0:
